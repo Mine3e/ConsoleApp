@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F10C07D-3D52-4C3F-AE08-09E6B537934A}|ConsoleApp.csproj|c:\\users\\hp\\source\\repos\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F10C07D-3D52-4C3F-AE08-09E6B537934A}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AB2920-1122-4B93-B96B-990E125BAD4D}|..\\Core\\Core.csproj|c:\\users\\hp\\source\\repos\\core\\enums\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Database.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Database.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Database.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:57:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Helper.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:57:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Classroom.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Classroom.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:56:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Student.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:56:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Exceptions\\Exceptions.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Exceptions\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Exceptions\\Exceptions.cs",
+              "RelativeToolTip": "..\\Core\\Exceptions\\Exceptions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:56:33.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Core\\Enums\\ClassType.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\ClassType.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Core\\Enums\\ClassType.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\ClassType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:56:20.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:54:26.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
